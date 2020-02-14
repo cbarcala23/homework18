@@ -11,7 +11,7 @@
   "orientation": "portrait",
   "display": "standalone",
   "start_url": "/",
-  "description": "An application for budget",
+  "description": "An application for Budgeting",
   "background_color": "#01579b",
   "theme_color": "#ffffff",
   "theme-color": "#ffffff"
